@@ -6,7 +6,7 @@ API de productos es un desarrollo para poder consumir los servicios de diferente
 ## Screenshots
 
 
-![App Screenshot](img/api.PNG)
+![App Screenshot](img/api.png)
 
 
 
